@@ -5,7 +5,7 @@ class Женщина;
 class Выпускник;
 class Работник;
 
-class Человек {
+class Человек {//приве
 public:
     enum Sex
     {
